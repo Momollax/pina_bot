@@ -2,7 +2,7 @@ import random
 
 def get_raretée():
     print("Bot pour roll les items D&D de pina")
-    rarity_input = input("entrez la raretee de l'item:\n1) Commun\n2) Commun a lien\n3) peu commun\n4) peu commun lien\n5) rare\n6) rare lien\n7) tres rare\n8) tres rare lien\n")
+    rarity_input = input("entrez la raretee de l'item:\n1) Commun\n2) Commun a lien\n3) peu commun\n4) peu commun lien\n5) rare\n6) rare lien\n7) tres rare\n8) tres rare lien\nreponse: ")
 
     try:
         rarity = int(rarity_input)
@@ -32,8 +32,8 @@ def handle_rarity(file_name, quantity):
     items = get_items(quantity, number_item)
     lines = extract_lines_from_file(file_name, items)
     if lines:
-        write_to_file(lines + '\n')
-        print(lines + '\n')
+        write_to_file(items, lines + '\n')
+        
 
 def handle_common(quantity):
     handle_rarity("common.txt", quantity)
@@ -66,6 +66,7 @@ def count_lines_in_file(filename):
     try:
         with open(filename, 'r') as f:
             return len(f.readlines())
+            
     except FileNotFoundError:
         print(f"Le fichier {filename} est introuvable")
         return None
@@ -75,7 +76,9 @@ def get_items(quantity, number_item):
     for i in range(quantity):
         items.append(random.randint(1, number_item))
     print("roll des dé: ", items)
-    return items
+    items_sorted = sorted(items)
+    print("items triés: ", items_sorted)
+    return items_sorted
 
 def extract_lines_from_file(filename, items):
     try:
@@ -87,16 +90,20 @@ def extract_lines_from_file(filename, items):
                     extracted_lines.append(lines[item-1].strip().replace('[','').replace(']',''))
                 else:
                     extracted_lines.append(f"L'item {item} n'existe pas dans le fichier {filename}")
-            return '\n\n'.join(extracted_lines)
+            f.close()
+            return '\n'.join(extracted_lines)
     except FileNotFoundError:
         print(f"Le fichier {filename} est introuvable")
         return None
 
 
-def write_to_file(text):
+def write_to_file(items, text):
+    lignes = text.split('\n')
     with open('response.txt', 'w') as f:
-        f.write(text)
-
+        f.writelines("roll des de: ")
+        f.writelines([str(i) + ' ' for i in items])
+        f.writelines('\n\n')
+        f.writelines('\n\n'.join(lignes))
 
 def main():
     rarity_and_quantity = get_raretée()
@@ -119,6 +126,7 @@ def main():
 
     func = switcher.get(rarity, handle_error)
     func()
+
 
 if __name__ == "__main__":
     main()
