@@ -1,5 +1,87 @@
-Adamantine Armor 600 Po + Prix de l'armure https://5e.tools/items.html#adamantine%20armor_dmg
-Alchemy Jug 5 000 Po https://5e.tools/items.html#alchemy%20jug_dmg
-Ammunition +1 20Po/u https://5e.tools/items.html#%2b1%20ammunition_dmg
-Amulet of the Drunkard 2000po https://5e.tools/items.html#amulet%20of%20the%20drunkard_egw
-Bag of Holding 5 000Po https://5e.tools/items.html#bag%20of%20holding_dmg
+Adamantine Armor,600 Po + Prix de l'armure, https://5e.tools/items.html#adamantine%20armor_xge
+Alchemy Jug,5 000 Po, https://5e.tools/items.html#alchemy%20jug_xge
+Ammunition +1,20Po, https://5e.tools/items.html#ammunition%20%2B1_xge
+Amulet of the Drunkard,2000po, https://5e.tools/items.html#amulet%20of%20the%20drunkard_xge
+Bag of Holding,5 000Po, https://5e.tools/items.html#bag%20of%20holding_xge
+Bag of Tricks,15 000Po, https://5e.tools/items.html#bag%20of%20tricks_xge
+Balance of Harmony,1800 Po, https://5e.tools/items.html#balance%20of%20harmony_xge
+Balloon Pack,2500po, https://5e.tools/items.html#balloon%20pack_xge
+Boots of Elvenkind,2 000 Po, https://5e.tools/items.html#boots%20of%20elvenkind_xge
+Bottled Breath,350po, https://5e.tools/items.html#bottled%20breath_xge
+Broom of Flying,7 000 Po, https://5e.tools/items.html#broom%20of%20flying_xge
+Cap of Water Breathing,1 000 Po, https://5e.tools/items.html#cap%20of%20water%20breathing_xge
+Charred Wand of Magic Missiles,2500Po, https://5e.tools/items.html#charred%20wand%20of%20magic%20missiles_xge
+Circlet of Blasting,1 000 Po, https://5e.tools/items.html#circlet%20of%20blasting_xge
+Cloak of the Manta Ray,5 000 Po, https://5e.tools/items.html#cloak%20of%20the%20manta%20ray_xge
+Cracked Driftglobe,300 Po, https://5e.tools/items.html#cracked%20driftglobe_xge
+Decanter of Endless Water,, https://5e.tools/items.html#decanter%20of%20endless%20water_xge
+Deck of Illusions,6 000 Po, https://5e.tools/items.html#deck%20of%20illusions_xge
+Driftglobe,800Po, https://5e.tools/items.html#driftglobe_xge
+Dust of Deliciousness,50Po, https://5e.tools/items.html#dust%20of%20deliciousness_xge
+Dust of Disappearance,200Po, https://5e.tools/items.html#dust%20of%20disappearance_xge
+Dust of Dryness,100Po, https://5e.tools/items.html#dust%20of%20dryness_xge
+Dust of Sneezing and Choking,500Po, https://5e.tools/items.html#dust%20of%20sneezing%20and%20choking_xge
+Elemental Gem,800Po, https://5e.tools/items.html#elemental%20gem_xge
+Eversmoking Bottle,1 000 Po, https://5e.tools/items.html#eversmoking%20bottle_xge
+Eyes of Minute Seeing,2 000Po, https://5e.tools/items.html#eyes%20of%20minute%20seeing_xge
+Gem of Brightness,6 000Po, https://5e.tools/items.html#gem%20of%20brightness_xge
+Gloves of Thievery,6 000Po, https://5e.tools/items.html#gloves%20of%20thievery_xge
+Goggles of Night,2 000Po, https://5e.tools/items.html#goggles%20of%20night_xge
+Hellfire Weapon,330Po+prix de l'arme, https://5e.tools/items.html#hellfire%20weapon_xge
+Helm of Comprehending Languages,600Po, https://5e.tools/items.html#helm%20of%20comprehending%20languages_xge
+Immovable Rod,4 000Po, https://5e.tools/items.html#immovable%20rod_xge
+Infernal Puzzle Box,550po, https://5e.tools/items.html#infernal%20puzzle%20box_xge
+Insignia of Claws,2 000Po, https://5e.tools/items.html#insignia%20of%20claws_xge
+Javelin of Lightning,1 000Po, https://5e.tools/items.html#javelin%20of%20lightning_xge
+Keoghtom's Ointment (par dose),120 Po, https://5e.tools/items.html#keoghtom%27s%20ointment%20%28par%20dose%29_xge
+Lantern of Revealing,4 000Po, https://5e.tools/items.html#lantern%20of%20revealing_xge
+Lightbringer,3 000 Po, https://5e.tools/items.html#lightbringer_xge
+Mariner's Armor,1 000 Po, https://5e.tools/items.html#mariner%27s%20armor_xge
+Mask of the Beast,1 500Po, https://5e.tools/items.html#mask%20of%20the%20beast_xge
+Mithral Armor,700 PO + PRIX ARMOR, https://5e.tools/items.html#mithral%20armor_xge
+Night Caller,3600 Po, https://5e.tools/items.html#night%20caller_xge
+Oil of Etherealness,2 000Po, https://5e.tools/items.html#oil%20of%20etherealness_xge
+Oil of Slipperiness,600Po, https://5e.tools/items.html#oil%20of%20slipperiness_xge
+Paper Bird (par feuille),100Po, https://5e.tools/items.html#paper%20bird%20%28par%20feuille%29_xge
+Periapt of Health,4 000 Po, https://5e.tools/items.html#periapt%20of%20health_xge
+Philter of Love*,90Po, https://5e.tools/items.html#philter%20of%20love%2A_xge
+Pipes of Haunting,7 000Po, https://5e.tools/items.html#pipes%20of%20haunting_xge
+Potion of Animal Friendship*,200Po, https://5e.tools/items.html#potion%20of%20animal%20friendship%2A_xge
+Potion of Fire Breath*,100Po, https://5e.tools/items.html#potion%20of%20fire%20breath%2A_xge
+Potion of Greater Healing*,200Po, https://5e.tools/items.html#potion%20of%20greater%20healing%2A_xge
+Potion of Growth*,300Po, https://5e.tools/items.html#potion%20of%20growth%2A_xge
+Potion of Hill Giant Strength*,450Po, https://5e.tools/items.html#potion%20of%20hill%20giant%20strength%2A_xge
+Potion of Poison*,100Po, https://5e.tools/items.html#potion%20of%20poison%2A_xge
+Potion of Resistance*,300Po, https://5e.tools/items.html#potion%20of%20resistance%2A_xge
+Potion of Water Breathing*,100Po, https://5e.tools/items.html#potion%20of%20water%20breathing%2A_xge
+Quiver of Ehlonna,1 000 Po, https://5e.tools/items.html#quiver%20of%20ehlonna_xge
+Reszur,1500 Po, https://5e.tools/items.html#reszur_xge
+Ring of Swimming,2 000 Po, https://5e.tools/items.html#ring%20of%20swimming_xge
+Ring of Water Walking,2 000 Po, https://5e.tools/items.html#ring%20of%20water%20walking_xge
+Robe of Useful Items,4 000Po, https://5e.tools/items.html#robe%20of%20useful%20items_xge
+Rope of Climbing,2 000 Po, https://5e.tools/items.html#rope%20of%20climbing_xge
+Saddle of the Cavalier,2 000Po, https://5e.tools/items.html#saddle%20of%20the%20cavalier_xge
+Seeker Dart,200 Po, https://5e.tools/items.html#seeker%20dart_xge
+Sending Stones,2 000Po, https://5e.tools/items.html#sending%20stones_xge
+Sentinel Shield,20 000 Po, https://5e.tools/items.html#sentinel%20shield_xge
+Serpent Scale Armor,6000 Po, https://5e.tools/items.html#serpent%20scale%20armor_xge
+Shield +1,1 000 Po, https://5e.tools/items.html#shield%20%2B1_xge
+Smokepowder,300Po, https://5e.tools/items.html#smokepowder_xge
+Spell Gem (Lapis lazuli),1 500Po, https://5e.tools/items.html#spell%20gem%20%28lapis%20lazuli%29_xge
+Spell Gem (Obsidian),250Po, https://5e.tools/items.html#spell%20gem%20%28obsidian%29_xge
+Spell Scroll (2nd Level)*,240Po Plus prix de composantes matérielles, https://5e.tools/items.html#spell%20scroll%20%282nd%20level%29%2A_xge
+Spell Scroll (3rd Level)*,400Po Plus prix de composantes matérielles, https://5e.tools/items.html#spell%20scroll%20%283rd%20level%29%2A_xge
+Spellwrought Tattoo (2nd Level),300Po, https://5e.tools/items.html#spellwrought%20tattoo%20%282nd%20level%29_xge
+Spellwrought Tattoo (3rd Level),600Po, https://5e.tools/items.html#spellwrought%20tattoo%20%283rd%20level%29_xge
+Storm Boomerang,1800 Po, https://5e.tools/items.html#storm%20boomerang_xge
+Uncommon Glamerweave,500Po, https://5e.tools/items.html#uncommon%20glamerweave_xge
+Wand of Magic Detection,2 000 Po, https://5e.tools/items.html#wand%20of%20magic%20detection_xge
+Wand of Magic Missiles,6 000 Po, https://5e.tools/items.html#wand%20of%20magic%20missiles_xge
+Wand of Secrets,1 000 Po, https://5e.tools/items.html#wand%20of%20secrets_xge
+Weapon +1 +prix de l'arme,1 000 Po, https://5e.tools/items.html#weapon%20%2B1%20%2Bprix%20de%20l%27arme_xge
+Wheel of Wind and Water,500Po, https://5e.tools/items.html#wheel%20of%20wind%20and%20water_xge
+Wind Fan,2 000 Po, https://5e.tools/items.html#wind%20fan_xge
+Dust of corrosion,90po(L), https://5e.tools/items.html#dust%20of%20corrosion_xge
+Emerald pen,600po(L), https://5e.tools/items.html#emerald%20pen_xge
+Pixie dust,200po(L), https://5e.tools/items.html#pixie%20dust_xge
+Potion of adventage,75po(L), https://5e.tools/items.html#potion%20of%20adventage_xge
