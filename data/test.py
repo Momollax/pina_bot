@@ -6,8 +6,10 @@ base_url = "https://5e.tools/items.html#"
 with open('toto.json', 'r') as fichier_json:
     data = json.load(fichier_json)
 
+files="very_rare.txt"
+
 # Ouvrir le fichier en mode lecture
-with open('common_link.txt', 'r') as fichier_txt:
+with open(files, 'r') as fichier_txt:
     lignes = fichier_txt.readlines()
 
 # Comparer les noms avec les noms des objets dans le fichier JSON
@@ -24,5 +26,5 @@ for i, ligne in enumerate(lignes):
                 lignes[i] = ligne_mise_a_jour
 
 # Écrire les lignes mises à jour dans le fichier .txt
-with open('common.txt', 'w') as fichier_txt:
+with open(files, 'w') as fichier_txt:
     fichier_txt.writelines(lignes)
