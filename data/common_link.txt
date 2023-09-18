@@ -1,4 +1,4 @@
-Armor of Gleaming,50Po 
+Armor of Gleaming,50Po
 Bead of Nourishment,50Po, https://5e.tools/items.html#bead%20of%20nourishment_XGE
 Bead of Refreshment,50Po, https://5e.tools/items.html#bead%20of%20refreshment_XGE
 Boots of False Tracks,250Po, https://5e.tools/items.html#boots%20of%20false%20tracks_XGE
