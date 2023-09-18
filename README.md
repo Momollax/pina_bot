@@ -12,7 +12,7 @@ clonnez le repo : `git clone https://github.com/NoeMoyen/pina_bot.git`
 
 deplacez vous dans le repo: `cd pina_bot`
 
-executez le bot : `python bot.py`
+executez le bot : `python main.py`
 
 ## Utilisation
 
