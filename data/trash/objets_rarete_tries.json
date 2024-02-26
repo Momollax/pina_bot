@@ -1,0 +1,8392 @@
+[
+    {
+        "name": "Accounting and Valuation of All Things",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Adze of Annam",
+        "rarity": "artifact",
+        "source": "BGG"
+    },
+    {
+        "name": "Akmon, Hammer of Purphoros",
+        "rarity": "artifact",
+        "source": "MOT"
+    },
+    {
+        "name": "Amulet of the Inferno",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Axe of the Dwarvish Lords",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Baba Yaga's Mortar and Pestle",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Baba Yaga's Pestle",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Bigby's Beneficent Bracelet",
+        "rarity": "artifact",
+        "source": "BGG"
+    },
+    {
+        "name": "Blade of Avernus",
+        "rarity": "artifact",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Blade of Broken Mirrors (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Book of Exalted Deeds",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Book of Vile Darkness",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Borealus",
+        "rarity": "artifact",
+        "source": "HWCS"
+    },
+    {
+        "name": "Chip of Creation",
+        "rarity": "artifact",
+        "source": "AitFR-AVT"
+    },
+    {
+        "name": "Crook of Rao",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Dekella, Bident of Thassa",
+        "rarity": "artifact",
+        "source": "MOT"
+    },
+    {
+        "name": "Demonomicon of Iggwilv",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Draakhorn",
+        "rarity": "artifact",
+        "source": "RoT"
+    },
+    {
+        "name": "Ephixis, Bow of Nylea",
+        "rarity": "artifact",
+        "source": "MOT"
+    },
+    {
+        "name": "Eye of Vecna",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Grovelthrash (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Hand of Vecna",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of Perfect Potential",
+        "rarity": "artifact",
+        "source": "BGG"
+    },
+    {
+        "name": "Iggwilv's Cauldron",
+        "rarity": "artifact",
+        "source": "WBtW"
+    },
+    {
+        "name": "Keystone of Creation",
+        "rarity": "artifact",
+        "source": "AitFR-AVT"
+    },
+    {
+        "name": "Khrusor, Spear of Heliod",
+        "rarity": "artifact",
+        "source": "MOT"
+    },
+    {
+        "name": "Lash of Shadows (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Luba's Tarokka of Souls",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Mace of the Black Crown (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Mask of the Dragon Queen",
+        "rarity": "artifact",
+        "source": "RoT"
+    },
+    {
+        "name": "Mastix, Whip of Erebos",
+        "rarity": "artifact",
+        "source": "MOT"
+    },
+    {
+        "name": "Mighty Servant of Leuk-o",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "Necronomicon Ex Corvis",
+        "rarity": "artifact",
+        "source": "HWCS"
+    },
+    {
+        "name": "Orb of Dragonkind",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Orrery of the Wanderer",
+        "rarity": "artifact",
+        "source": "AI"
+    },
+    {
+        "name": "Ranseur of Torture",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Ring of Winter",
+        "rarity": "artifact",
+        "source": "ToA"
+    },
+    {
+        "name": "Ruby Rod of Asmodeus",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Ruin's Wake (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Ruinstone",
+        "rarity": "artifact",
+        "source": "DC"
+    },
+    {
+        "name": "Scourge of Shadow",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Silken Spite (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Staff of the Forgotten One",
+        "rarity": "artifact",
+        "source": "ToA"
+    },
+    {
+        "name": "Stone of Creation",
+        "rarity": "artifact",
+        "source": "AitFR-AVT"
+    },
+    {
+        "name": "Stone of Golorr",
+        "rarity": "artifact",
+        "source": "WDH"
+    },
+    {
+        "name": "Sword of Kas",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Zariel",
+        "rarity": "artifact",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Teeth of Dahlver-Nar",
+        "rarity": "artifact",
+        "source": "TCE"
+    },
+    {
+        "name": "The Bloody End (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "The Infernal Machine of Lum the Mad",
+        "rarity": "artifact",
+        "source": "IMR"
+    },
+    {
+        "name": "True-Ice Shards (Dagger)",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "True-Ice Shards (Rapier)",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Wand of Orcus",
+        "rarity": "artifact",
+        "source": "DMG"
+    },
+    {
+        "name": "Will of the Talon (Dormant)",
+        "rarity": "artifact",
+        "source": "EGW"
+    },
+    {
+        "name": "Wrought-Iron Tower",
+        "rarity": "artifact",
+        "source": "CoA"
+    },
+    {
+        "name": "Wyrmskull Throne",
+        "rarity": "artifact",
+        "source": "SKT"
+    },
+    {
+        "name": "Bead of Nourishment",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Bead of Refreshment",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Boots of False Tracks",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Bottle of Boundless Coffee",
+        "rarity": "common",
+        "source": "SCC"
+    },
+    {
+        "name": "Breathing Bubble",
+        "rarity": "common",
+        "source": "EGW"
+    },
+    {
+        "name": "Candle of the Deep",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Cartographer's Map Case",
+        "rarity": "common",
+        "source": "AI"
+    },
+    {
+        "name": "Charlatan's Die",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Chest of Preserving",
+        "rarity": "common",
+        "source": "WDMM"
+    },
+    {
+        "name": "Cleansing Stone",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Cloak of Billowing",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Cloak of Many Fashions",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Clockwork Amulet",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Clothes of Mending",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Coin of Delving",
+        "rarity": "common",
+        "source": "EGW"
+    },
+    {
+        "name": "Common Glamerweave",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Cuddly Strixhaven Mascot",
+        "rarity": "common",
+        "source": "SCC"
+    },
+    {
+        "name": "Dark Shard Amulet",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Doublet of Dramatic Demise",
+        "rarity": "common",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Dread Helm",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Ear Horn of Hearing",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Earring of Message",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Enduring Spellbook",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Ersatz Eye",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Everbright Lantern",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Feather Token",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Hat of Vermin",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Hat of Wizardry",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Heward's Handy Spice Pouch",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Horn of Silent Alarm",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Illuminator's Tattoo",
+        "rarity": "common",
+        "source": "TCE"
+    },
+    {
+        "name": "Instrument of Illusions",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Instrument of Scribing",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Keycharm",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Lantern of Tracking",
+        "rarity": "common",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Lock of Trickery",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Masque Charm",
+        "rarity": "common",
+        "source": "SCC"
+    },
+    {
+        "name": "Masquerade Tattoo",
+        "rarity": "common",
+        "source": "TCE"
+    },
+    {
+        "name": "Medal of Muscle",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of the Conch",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of the Horizonback",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of the Maze",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of the Meat Pie",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of the Wetlands",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Medal of Wit",
+        "rarity": "common",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Mind Crystal (Subtle)",
+        "rarity": "common",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Moodmark Paint",
+        "rarity": "common",
+        "source": "GGR"
+    },
+    {
+        "name": "Mystery Key",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Orb of Direction",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Orb of Gonging",
+        "rarity": "common",
+        "source": "WDMM"
+    },
+    {
+        "name": "Orb of Time",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Perfume of Bewitching",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Pipe of Remembrance",
+        "rarity": "common",
+        "source": "GoS"
+    },
+    {
+        "name": "Pipe of Smoke Monsters",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Pole of Angling",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Pole of Collapsing",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Pot of Awakening",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Potion of Climbing",
+        "rarity": "common",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Comprehension",
+        "rarity": "common",
+        "source": "WDMM"
+    },
+    {
+        "name": "Potion of Healing",
+        "rarity": "common",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Watchful Rest",
+        "rarity": "common",
+        "source": "WDMM"
+    },
+    {
+        "name": "Pressure Capsule",
+        "rarity": "common",
+        "source": "GoS"
+    },
+    {
+        "name": "Prosthetic Limb",
+        "rarity": "common",
+        "source": "TCE"
+    },
+    {
+        "name": "Rope of Mending",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Ruby of the War Mage",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Scribe's Pen",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Sekolahian Worshiping Statuette",
+        "rarity": "common",
+        "source": "GoS"
+    },
+    {
+        "name": "Shield of Expression",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Shiftweave",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Spell Scroll (1st Level)",
+        "rarity": "common",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Scroll (Cantrip)",
+        "rarity": "common",
+        "source": "DMG"
+    },
+    {
+        "name": "Spellshard",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "Spellwrought Tattoo (1st Level)",
+        "rarity": "common",
+        "source": "TCE"
+    },
+    {
+        "name": "Spellwrought Tattoo (Cantrip)",
+        "rarity": "common",
+        "source": "TCE"
+    },
+    {
+        "name": "Spyglass of Clairvoyance",
+        "rarity": "common",
+        "source": "AI"
+    },
+    {
+        "name": "Staff of Adornment",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Staff of Birdcalls",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Staff of Flowers",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Strixhaven Pennant",
+        "rarity": "common",
+        "source": "SCC"
+    },
+    {
+        "name": "Talking Doll",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Tankard of Sobriety",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Thermal Cube",
+        "rarity": "common",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Unbreakable Arrow",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Veteran's Cane",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Voting Kit",
+        "rarity": "common",
+        "source": "AI"
+    },
+    {
+        "name": "Vox Seeker",
+        "rarity": "common",
+        "source": "EGW"
+    },
+    {
+        "name": "Wand of Conducting",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Wand of Pyrotechnics",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Wand of Scowls",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Wand of Smiles",
+        "rarity": "common",
+        "source": "XGE"
+    },
+    {
+        "name": "Wand Sheath",
+        "rarity": "common",
+        "source": "ERLW"
+    },
+    {
+        "name": "+3 Fate Dealer's Deck",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Agony (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Amulet of Harmony",
+        "rarity": "legendary",
+        "source": "NRH-AT"
+    },
+    {
+        "name": "Apparatus of Kwalish",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Armor of Invulnerability",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Armor of the Valiant Soul (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Ascendant Dragon Vessel",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Ascendant Dragon-Touched Focus",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Ascendant Scaled Ornament",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Azuredge",
+        "rarity": "legendary",
+        "source": "WDH"
+    },
+    {
+        "name": "Balance Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Belashyrra's Beholder Crown",
+        "rarity": "legendary",
+        "source": "ERLW"
+    },
+    {
+        "name": "Belt of Cloud Giant Strength",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Belt of Storm Giant Strength",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Black Crystal Tablet",
+        "rarity": "legendary",
+        "source": "WDMM"
+    },
+    {
+        "name": "Black Dragon Mask",
+        "rarity": "legendary",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Blackrazor",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Blackstaff",
+        "rarity": "legendary",
+        "source": "WDH"
+    },
+    {
+        "name": "Blood Fury Tattoo",
+        "rarity": "legendary",
+        "source": "TCE"
+    },
+    {
+        "name": "Blue Dragon Mask",
+        "rarity": "legendary",
+        "source": "RoTOS"
+    },
+    {
+        "name": "Bookmark",
+        "rarity": "legendary",
+        "source": "ToA"
+    },
+    {
+        "name": "Cabal's Ruin (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Circlet of Barbed Vision (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Cloak of Invisibility",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Comet Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Condemner (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Crown of Westem\u00c3\u00a4r",
+        "rarity": "legendary",
+        "source": "DoDk"
+    },
+    {
+        "name": "Crystal Ball of Mind Reading",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Crystal Ball of Telepathy",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Crystal Ball of True Seeing",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Cubic Gate",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Danoth's Visor (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Dawnbringer",
+        "rarity": "legendary",
+        "source": "OotA"
+    },
+    {
+        "name": "Deathwalker's Ward (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Deck of Many More Things",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Deck of Many Things",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Deck of Many Things",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Deck of Several Things",
+        "rarity": "legendary",
+        "source": "LLK"
+    },
+    {
+        "name": "Donjon Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Dragonstaff of Ahghairon",
+        "rarity": "legendary",
+        "source": "WDH"
+    },
+    {
+        "name": "Drown",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Efreeti Chain",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Euryale Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Euryale's Aegis",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Fane-Eater",
+        "rarity": "legendary",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Fates Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Fenthras (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Flail of Tiamat",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Flames Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Fool Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Gem Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Gloves of Soul Catching",
+        "rarity": "legendary",
+        "source": "CM"
+    },
+    {
+        "name": "Gold Canary Figurine of Wondrous Power",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Graz'tchar, the Decadent End",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Greater Silver Sword",
+        "rarity": "legendary",
+        "source": "MTF"
+    },
+    {
+        "name": "Green Dragon Mask",
+        "rarity": "legendary",
+        "source": "RoTOS"
+    },
+    {
+        "name": "Grimoire Infinitus (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Gurt's Greataxe",
+        "rarity": "legendary",
+        "source": "SKT"
+    },
+    {
+        "name": "Hammer of Thunderbolts",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Hammock of Worlds",
+        "rarity": "legendary",
+        "source": "JttRC"
+    },
+    {
+        "name": "Harp of Gilded Plenty",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Hazirawn",
+        "rarity": "legendary",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Helm of Disjunction",
+        "rarity": "legendary",
+        "source": "HAT-LMI"
+    },
+    {
+        "name": "Helm of the Scavenger",
+        "rarity": "legendary",
+        "source": "WDMM"
+    },
+    {
+        "name": "Hide of the Feral Guardian (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Hither-Thither Staff",
+        "rarity": "legendary",
+        "source": "HAT-LMI"
+    },
+    {
+        "name": "Holy Symbol of Ravenkind",
+        "rarity": "legendary",
+        "source": "CoS"
+    },
+    {
+        "name": "Honor's Last Stand (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Horn of Beckoning Death",
+        "rarity": "legendary",
+        "source": "HAT-LMI"
+    },
+    {
+        "name": "Horn of Valhalla, Iron",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Icon of Ravenloft",
+        "rarity": "legendary",
+        "source": "CoS"
+    },
+    {
+        "name": "Ignacious, the Sword of Burning Truth",
+        "rarity": "legendary",
+        "source": "DoDk"
+    },
+    {
+        "name": "Infernal Tack",
+        "rarity": "legendary",
+        "source": "MTF"
+    },
+    {
+        "name": "Infiltrator's Key (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Inscrutable Staff",
+        "rarity": "legendary",
+        "source": "DoDk"
+    },
+    {
+        "name": "Instrument of the Bards, Ollamh Harp",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Greater Absorption",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Mastery",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Regeneration",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Iron Flask",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ironfang",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Jester Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Jester's Mask",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Jewel of Three Prayers (Dormant)",
+        "rarity": "legendary",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Key Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Kiss of the Changebringer (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Knight Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Korolnor Scepter",
+        "rarity": "legendary",
+        "source": "SKT"
+    },
+    {
+        "name": "Lesser Hammock of Worlds",
+        "rarity": "legendary",
+        "source": "JttRC"
+    },
+    {
+        "name": "Longbow of the Healing Hearth",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Lost Crown of Besilmer",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Luxon Beacon",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Matalotok",
+        "rarity": "legendary",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Moon Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Moonblade",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Murgaxor's Orb",
+        "rarity": "legendary",
+        "source": "SCC"
+    },
+    {
+        "name": "Mythcarver (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Nepenthe",
+        "rarity": "legendary",
+        "source": "VRGR"
+    },
+    {
+        "name": "Nether Scroll of Azumar",
+        "rarity": "legendary",
+        "source": "CM"
+    },
+    {
+        "name": "Nightbringer",
+        "rarity": "legendary",
+        "source": "MCV2DC"
+    },
+    {
+        "name": "Nightfall Pearl",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Obsidian Flint Dragon Plate",
+        "rarity": "legendary",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Orb of Skoraeus",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Orcsplitter",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Plate of the Dawnmartyr (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Platinum Scarf",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Potion of Dragon's Majesty",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Potion of Giant Size",
+        "rarity": "legendary",
+        "source": "SKT"
+    },
+    {
+        "name": "Potion of Storm Giant Strength",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Powered Armor",
+        "rarity": "legendary",
+        "source": "LLK"
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Prismatic Well",
+        "rarity": "legendary",
+        "source": "NRH-AT"
+    },
+    {
+        "name": "Puzzle Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Pyremaul (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Pyxis of Pandemonium",
+        "rarity": "legendary",
+        "source": "MOT"
+    },
+    {
+        "name": "Rakdos Riteknife",
+        "rarity": "legendary",
+        "source": "GGR"
+    },
+    {
+        "name": "Reaper's Scream",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Red Dragon Mask",
+        "rarity": "legendary",
+        "source": "RoTOS"
+    },
+    {
+        "name": "Red Wizard Blade",
+        "rarity": "legendary",
+        "source": "HAT-LMI"
+    },
+    {
+        "name": "Ring of Air Elemental Command",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Djinni Summoning",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Earth Elemental Command",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Fire Elemental Command",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Invisibility",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Spell Turning",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of the Copycat",
+        "rarity": "legendary",
+        "source": "CoA"
+    },
+    {
+        "name": "Ring of Three Wishes",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Water Elemental Command",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Robe of the Archmagi",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Lordly Might",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Resurrection",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Rogue Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Ruby Weave Gem",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Ruin Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Ruinblade",
+        "rarity": "legendary",
+        "source": "IMR"
+    },
+    {
+        "name": "Sage Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Scarab of Protection",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Tarrasque Summoning",
+        "rarity": "legendary",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Scroll of the Comet",
+        "rarity": "legendary",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Shard Solitaire (Black Sapphire)",
+        "rarity": "legendary",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shard Solitaire (Diamond)",
+        "rarity": "legendary",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shard Solitaire (Jacinth)",
+        "rarity": "legendary",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shard Solitaire (Rainbow Pearl)",
+        "rarity": "legendary",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shard Solitaire (Ruby)",
+        "rarity": "legendary",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shield of the Blazing Dreadnought",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Shield of the Hidden Lord",
+        "rarity": "legendary",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Skull Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Snicker-Snack",
+        "rarity": "legendary",
+        "source": "WBtW"
+    },
+    {
+        "name": "Sovereign Glue",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Bottle",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Spell Gem (Diamond)",
+        "rarity": "legendary",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Ruby)",
+        "rarity": "legendary",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Star ruby)",
+        "rarity": "legendary",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Scroll (9th Level)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sphere of Annihilation",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Spindle of Fate",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Spire of Conflux (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Spymaster's Signet",
+        "rarity": "legendary",
+        "source": "DoDk"
+    },
+    {
+        "name": "Staff of Contaminated Power",
+        "rarity": "legendary",
+        "source": "DoDk"
+    },
+    {
+        "name": "Staff of the Magi",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Star Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Star Razor (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Stonebreaker's Breastplate",
+        "rarity": "legendary",
+        "source": "BGG"
+    },
+    {
+        "name": "Stormgirdle (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Sun Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Sunsword",
+        "rarity": "legendary",
+        "source": "CoS"
+    },
+    {
+        "name": "Sword of Answering (Answerer)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Back Talker)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Concluder)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Last Quip)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Rebutter)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Replier)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Retorter)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Scather)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Sword of Answering (Squelcher)",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Tablet of Reawakening",
+        "rarity": "legendary",
+        "source": "HAT-LMI"
+    },
+    {
+        "name": "Talarith",
+        "rarity": "legendary",
+        "source": "BAM"
+    },
+    {
+        "name": "Talisman of Pure Good",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Talisman of the Sphere",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Talisman of Ultimate Evil",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Talons Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Telescopic Transporter",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Throne Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Tinderstrike",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Titanstone Knuckles (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Tome of the Stilled Tongue",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Topaz Annihilator",
+        "rarity": "legendary",
+        "source": "FTD"
+    },
+    {
+        "name": "Universal Solvent",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Verminshroud (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Void Card",
+        "rarity": "legendary",
+        "source": "BMT"
+    },
+    {
+        "name": "Wave",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Waythe",
+        "rarity": "legendary",
+        "source": "TftYP"
+    },
+    {
+        "name": "Well of Many Worlds",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Whelm",
+        "rarity": "legendary",
+        "source": "DMG"
+    },
+    {
+        "name": "Whisper (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "White Dragon Mask",
+        "rarity": "legendary",
+        "source": "RoTOS"
+    },
+    {
+        "name": "Windvane",
+        "rarity": "legendary",
+        "source": "PotA"
+    },
+    {
+        "name": "Witchlight Vane",
+        "rarity": "legendary",
+        "source": "WBtW"
+    },
+    {
+        "name": "Witchlight Watch",
+        "rarity": "legendary",
+        "source": "WBtW"
+    },
+    {
+        "name": "Wraps of Dyamak (Dormant)",
+        "rarity": "legendary",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Wreath of the Prism (Dormant)",
+        "rarity": "legendary",
+        "source": "EGW"
+    },
+    {
+        "name": "Ythryn Mythallar",
+        "rarity": "legendary",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Abacus",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Acid (vial)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Adamantine Bar",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Airship",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Alchemist's Fire (flask)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Alchemist's Supplies",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Ale (Gallon)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Ale (Mug)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Alexandrite",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Amber",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Amethyst",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Amulet",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Amulet of dinosaur feathers (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Antitoxin (vial)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Aquamarine",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Assassin's Blood",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Axe Beak",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Azurite",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Backpack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Ball Bearing",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Ball Bearings (bag of 1,000)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Banded Agate",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Barrel",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Barrier Peaks Trinket",
+        "rarity": "none",
+        "source": "LLK"
+    },
+    {
+        "name": "Basic Fishing Equipment",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Basic Poison (vial)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Basket",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bedroll",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bejeweled ivory drinking horn with gold filigree",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Bell",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bit and bridle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Biza's Breath",
+        "rarity": "none",
+        "source": "JttRC"
+    },
+    {
+        "name": "Black Ghost Orchid Seed",
+        "rarity": "none",
+        "source": "JttRC"
+    },
+    {
+        "name": "Black Opal",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Black Pearl",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Black Sap",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Black Sapphire",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Black velvet mask stitched with silver thread",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Blanket",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Blasting Powder",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Blight Ichor",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Block and Tackle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Blood of the Lycanthrope",
+        "rarity": "none",
+        "source": "IMR"
+    },
+    {
+        "name": "Bloodstone",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Blue Quartz",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Blue Sapphire",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Blue Spinel",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Bomb",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Bombard",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Book",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bottle stopper cork embossed with gold leaf and set with amethysts",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Box of turquoise animal figurines",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Brass mug with jade inlay",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Brewer's Supplies",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bronze crown",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Bronze spyglass (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Bucket",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Bullseye Lantern",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Burglar's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Burnt Othur Fumes",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Calligrapher's Supplies",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Caltrop",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Caltrops (bag of 20)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Camel",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Candle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Canoe",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Canvas (1 sq. yd.)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Carnelian",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Carpenter's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Carriage",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Carrion Crawler Mucus",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Cart",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cartographer's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Carved bone statuette",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Carved harp of exotic wood with ivory inlay and zircon gems",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Carved ivory statuette",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Carved jade statuette (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Ceremonial electrum dagger with a black pearl in the pommel",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Ceremonial silver dagger with gold pommel and black pearl (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Chain (10 feet)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Chalcedony",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Chalk (1 piece)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Chariot",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Chest",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Chicken",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Chrysoberyl",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Chrysoprase",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Chunk of Meat",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cinnamon",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Citrine",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Climber's Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cloth-of-gold vestments",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Cloth-of-gold vestments (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Clothing, cold weather",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Cloves",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cobbler's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Common Clothes",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Common Wine (Pitcher)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Component Pouch",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cook's Utensils",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Copper",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Copper (cp)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Copper Alms-Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Copper chalice with silver filigree",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Copper stein with silver filigree (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Copper Zib",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Coral",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Costume Clothes",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cotton Cloth (1 sq. yd.)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Cow",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Crampons",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Crossbow Bolt Case",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Crowbar",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Damselfly Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Diamond",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Dice Set",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Diplomat's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Disguise Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Dogsled",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Donkey",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Draft Horse",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Dragon",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Dragon's Blood",
+        "rarity": "none",
+        "source": "ERLW"
+    },
+    {
+        "name": "Dragonchess Set",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Dreamlily",
+        "rarity": "none",
+        "source": "ERLW"
+    },
+    {
+        "name": "Drow Poison",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Dungeoneer's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Dust of the Mummy",
+        "rarity": "none",
+        "source": "IMR"
+    },
+    {
+        "name": "Dynamite",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Dynamite (stick)",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Electrum (ep)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Electrum 50-Zib Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Elephant",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Elven Trinket",
+        "rarity": "none",
+        "source": "MTF"
+    },
+    {
+        "name": "Emblem",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Embroidered glove set with jewel chips",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Embroidered silk and velvet mantle set with numerous moonstones",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Embroidered silk handkerchief",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Emerald",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Entertainer's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Essence of Ether",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Exotic Saddle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Explorer's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Explosive Seed",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Eye Agate",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Eye patch with a mock eye set in blue sapphire and moonstone",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Eye patch with a mock eye set in blue sapphire and moonstone (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Fargab",
+        "rarity": "none",
+        "source": "DSotDQ"
+    },
+    {
+        "name": "Feathered mantle with emerald clasp (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Feed (per day)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Feywild Trinket",
+        "rarity": "none",
+        "source": "WBtW"
+    },
+    {
+        "name": "Fine Clothes",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Fine gold chain set with a fire opal",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Fine gold chain with fire opals (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Fine robe with dinosaur feathers and silver embroidery (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Fine steel rapier with gold filigree hilt (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Fine Wine (Bottle)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Finely articulated jade glove (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Fire Opal",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Fishing Tackle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Flask",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Flour",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Flying Fish Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Forgery Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Fragmentation Grenade",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Galley",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Garnet",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gate Warden Trinket",
+        "rarity": "none",
+        "source": "SatO"
+    },
+    {
+        "name": "Ginger",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Glass Bottle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Glassblower's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Gluebomb",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Goat",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Gold",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Gold (gp)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Gold 5-Zino Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Gold basin with rubies (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold bird cage with electrum filigree",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold chalice (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold chalice set with emeralds (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold circlet set with four aquamarines",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold cup set with emeralds",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold dragon comb set with red garnets as eyes",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold jewelry box with platinum filigree",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold jewelry box with platinum filigree (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold locket with a painted portrait inside",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold locket with a painted portrait inside (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold music box",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold music box (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold pendant with black onyx (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold ring set with bloodstones",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gold ring with turquoise (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold Zino",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Gold-plated sextant with topaz (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Goose Egg Trinket",
+        "rarity": "none",
+        "source": "BGG"
+    },
+    {
+        "name": "Grappling Hook",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Grenade Launcher",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gunpowder Horn",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Gunpowder Keg",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Hammer",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Hammerhead Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Harbor Moon",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Healer's Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Hematite",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Hempen Rope (50 feet)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Herbalism Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Holy Water (flask)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Hooded Lantern",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Horror Trinket",
+        "rarity": "none",
+        "source": "VRGR"
+    },
+    {
+        "name": "Hourglass",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Hunk of Cheese",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Hunting Trap",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Icewind Dale Trinket",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Ink (1-ounce bottle)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Ink Pen",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Insect Repellent (block of incense)",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Insect Repellent (greasy salve)",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Iron",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Iron Pot",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Iron Spike",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Iron Spikes (10)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Jacinth",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jade",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jade bowl (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jade breastplate (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jade game board with solid gold playing pieces",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jade headpiece (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jade sword with amber (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jade totem with diamond eyes (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jasper",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jet",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jeweled anklet",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jeweled anklet (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Jeweled gold crown",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jeweled platinum ring",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Jeweler's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Jug",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Keelboat",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Keg of Alchemist's Fire",
+        "rarity": "none",
+        "source": "LoX"
+    },
+    {
+        "name": "Ladder (10-foot)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Lamp",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Lamprey Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Lapis Lazuli",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Large gold bracelet",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Large gold bracelet (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Large jade totem (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Large well-made tapestry",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Large well-made tapestry (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Leatherworker's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Linen (1 sq. yd.)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Living Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Loaf of Bread",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Lock",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Longship",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Lute crafted of exotic wood with mother-of-pearl inlay and zircon gems (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Magnifying Glass",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Malachite",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Malice",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Manacles",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Map or Scroll Case",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Marble font with gold inlay (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Mason's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Masterpiece painting in mahogany frame with gold inlay (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Mastiff",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Merchant's Scale",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Mess Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Midnight Tears",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Military Saddle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Miner's Pick",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Monster Hunter's Pack",
+        "rarity": "none",
+        "source": "VRGR"
+    },
+    {
+        "name": "Moonstone",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Moorbounder",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Moss Agate",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Mule",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Muroosa Balm",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Narycrash",
+        "rarity": "none",
+        "source": "DSotDQ"
+    },
+    {
+        "name": "Nautiloid",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Navigator's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Necklace of electrum medallions with red and blue tournalines (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Necklace of jade and pink pearls (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Necklace string of small pink pearls",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Nib",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Nightspider",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Obsidian",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Obsidian statuette with gold fittings and inlay",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Oil (flask)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Oil of Taggit",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Old masterpiece painting",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Olisuba Leaf",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Onyx",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Opal",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Ox",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pack Saddle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Painted gold child's sarcophagus",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Painted gold war mask",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Painter's Supplies",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pair of engraved bone dice",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Pair of engraved bone dice (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Pale Tincture",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Paper (one sheet)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Parchment (one sheet)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pearl",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Pepper",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Perfume (vial)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Peridot",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Pewter mug with green spinels (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Pig",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pitcher",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Piton",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Plainscow",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Planar Philosopher Trinket",
+        "rarity": "none",
+        "source": "SatO"
+    },
+    {
+        "name": "Platinum",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Platinum (pp)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Platinum 10-Zino Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Platinum 100-Zino Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Platinum bracelet set with a sapphire",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Platinum headdress with topaz sun symbol (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Platinum ring with yellow sapphire (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Platinum staff topped with amber (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Playing Card Set",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Poisoner's Kit",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pole (10-foot)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pony",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Portable Ram",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Potter's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pouch",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Pride Silk",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Pride Silk Outfit",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Priest's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Purple Worm Poison",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Quartz",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Quiver",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Rain Catcher",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Rations (1 day)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Reliquary",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Rhodochrosite",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Riding Horse",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Riding Saddle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Robes",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Rowboat",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Ruby",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Sack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Saddlebags",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Saffron",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Sailing Ship",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Salt",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Sardonyx",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Scholar's Pack",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Scorpion Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Sealing Wax",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Serpent Venom",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Shard",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Sheep",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Shovel",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Shrike Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Signal Whistle",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Signet Ring",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Silk (1 sq. yd.)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Silk robe with gold embroidery",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Silk Rope (50 feet)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Silver",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Silver (sp)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Silver 25-Zib Coin",
+        "rarity": "none",
+        "source": "GGR"
+    },
+    {
+        "name": "Silver and gold brooch",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Silver chalice set with moonstones",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Silver ewer",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Silver headdress with amber and red-coral feathers (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Silver medallion (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Silver necklace with a gemstone pendant",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Silver necklace with an amber pendant (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Silver shoulder piece with amber and garnet (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Silver-plated steel longsword with jet set in hilt",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Skyship",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Skyship",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Sled",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Sled Dog",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Sledgehammer",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Small gold bracelet",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Small gold idol",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Small gold statuette set with rubies",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Small mirror set in a painted wooden frame",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Smith's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Smoke Grenade",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Snowshoes",
+        "rarity": "none",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Soap",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Soothsalts",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Space Galleon",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Spellbook",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Spinel",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Sprig of Mistletoe",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Spyglass",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Squid Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Stabling (per day)",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Star Moth",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Star rose quartz",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Star Ruby",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Star Sapphire",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Steel Mirror",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Stink Bomb",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Sun",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Sun amulet on a beaded chain (Sun Empire)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Tangler Grenade",
+        "rarity": "none",
+        "source": "WDMM"
+    },
+    {
+        "name": "Tankard",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Taol",
+        "rarity": "none",
+        "source": "WDH"
+    },
+    {
+        "name": "Tej",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Theki Root",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Thessaltoxin",
+        "rarity": "none",
+        "source": "IMR"
+    },
+    {
+        "name": "Thieves' Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Three-Dragon Ante Set",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Tiger Eye",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Tinderbox",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Tinker's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Tiny jade figurine (River Heralds)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Tome of Strahd",
+        "rarity": "none",
+        "source": "CoS"
+    },
+    {
+        "name": "Topaz",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Torch",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Torpor",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Totem",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Tourmaline",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Traveler's Clothes",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Treasure chest crafted of exotic wood with gold fittings and opals (Brazen Coalition)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Trinket",
+        "rarity": "none",
+        "source": "AI"
+    },
+    {
+        "name": "Trinket",
+        "rarity": "none",
+        "source": "CoS"
+    },
+    {
+        "name": "Trinket",
+        "rarity": "none",
+        "source": "EET"
+    },
+    {
+        "name": "Trinket",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Truth Serum",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Turquoise",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Turtle Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Two-Person Tent",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Tyrant Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Velvet doublet with gold buttons (Legion of Dusk)",
+        "rarity": "none",
+        "source": "PSX"
+    },
+    {
+        "name": "Vial",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Wagon",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Warhorse",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Warship",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Wasp Ship",
+        "rarity": "none",
+        "source": "AAG"
+    },
+    {
+        "name": "Waterskin",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Weaver's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Wheat",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Whetstone",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "White Ghost Orchid Seed",
+        "rarity": "none",
+        "source": "JttRC"
+    },
+    {
+        "name": "Willowshade Oil",
+        "rarity": "none",
+        "source": "EGW"
+    },
+    {
+        "name": "Woodcarver's Tools",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Writing Kit",
+        "rarity": "none",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Wyvern Poison",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Yahcha",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Yellow Sapphire",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "Yew Wand",
+        "rarity": "none",
+        "source": "PHB"
+    },
+    {
+        "name": "Zabou",
+        "rarity": "none",
+        "source": "ToA"
+    },
+    {
+        "name": "Zircon",
+        "rarity": "none",
+        "source": "DMG"
+    },
+    {
+        "name": "+1 Fate Dealer's Deck",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "+2 All-Purpose Tool",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Amulet of the Devout",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Arcane Grimoire",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Bloodwell Vial",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Dragonhide Belt",
+        "rarity": "rare",
+        "source": "FTD"
+    },
+    {
+        "name": "+2 Moon Sickle",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Rhythm-Maker's Drum",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+2 Rod of the Pact Keeper",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "+2 Wand of the War Mage",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "+2 Wraps of Unarmed Prowess",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Alchemical Compendium",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Amulet of Appearance",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Amulet of Health",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Amulet of Protection from Turning",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Aqua Delerium",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Aqua Expurgo",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Arcane Oil",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Armor of Vulnerability (Bludgeoning)",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Armor of Vulnerability (Piercing)",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Armor of Vulnerability (Slashing)",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Arrow-Catching Shield",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Astral Shard",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Astromancy Archive",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Atlas of Endless Horizons",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Azorius Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Badge of the Watch",
+        "rarity": "rare",
+        "source": "WDH"
+    },
+    {
+        "name": "Bag of Beans",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Banner of the Krig Rune",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Barrier Tattoo (Medium)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Battering Shield",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Bead of Force",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Bell Branch",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Belt of Hill Giant Strength",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Black Chromatic Rose",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Blod Stone",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Blue Chromatic Rose",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Bonecounter",
+        "rarity": "rare",
+        "source": "SDW"
+    },
+    {
+        "name": "Boots of Levitation",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Boots of Speed",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Boros Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Bottled Comet",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Bowl of Commanding Water Elementals",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Bracer of Flying Daggers",
+        "rarity": "rare",
+        "source": "WDH"
+    },
+    {
+        "name": "Bracers of Asmodeus",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Bracers of Celerity",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Bracers of Defense",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Brazier of Commanding Fire Elementals",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Breastplate of Balance",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Bridle of Capturing",
+        "rarity": "rare",
+        "source": "IMR"
+    },
+    {
+        "name": "Butcher's Bib",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Canian Fork",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Cape of the Mountebank",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Cauldron of Plenty",
+        "rarity": "rare",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Censer of Controlling Air Elementals",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Chancellor's Crest",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Charm of Plant Command",
+        "rarity": "rare",
+        "source": "GoS"
+    },
+    {
+        "name": "Chime of Opening",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Claw of the Wyrm Rune",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Claws of the Umber Hulk",
+        "rarity": "rare",
+        "source": "PotA"
+    },
+    {
+        "name": "Cloak of Displacement",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Cloak of the Bat",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Coat of Lies",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Coat of the Crest",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Concertina",
+        "rarity": "rare",
+        "source": "RMBRE"
+    },
+    {
+        "name": "Crown of the Wrath Bringer",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Cube of Force",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Daern's Instant Fortress",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Dagger of Blindsight",
+        "rarity": "rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Dagger of Denial",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Dagger of Venom",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Deck of Oracles",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Delerium Crystal Focus",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Delver's Claws",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Devotee's Censer",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Dimensional Shackles",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Docent",
+        "rarity": "rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Dodecahedron of Doom",
+        "rarity": "rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Donjon's Sundering Sphere",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Dragonguard",
+        "rarity": "rare",
+        "source": "LMoP"
+    },
+    {
+        "name": "Dragonguard",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Dragontooth Dagger",
+        "rarity": "rare",
+        "source": "RoT"
+    },
+    {
+        "name": "Duplicitous Manuscript",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Eagle Whistle",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Earthboard",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Elemental Essence Shard",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Elemental Essence Shard (Air)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Elemental Essence Shard (Earth)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Elemental Essence Shard (Fire)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Elemental Essence Shard (Water)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Elixir of Health",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Elven Chain",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Failed Experiment Wand",
+        "rarity": "rare",
+        "source": "AI"
+    },
+    {
+        "name": "Far Realm Shard",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Feather of Diatryma Summoning",
+        "rarity": "rare",
+        "source": "WDH"
+    },
+    {
+        "name": "Feathered Helm",
+        "rarity": "rare",
+        "source": "HWCS"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Bronze Griffon",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Ebony Fly",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Golden Lions",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Ivory Goats",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Marble Elephant",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Onyx Dog",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Serpentine Owl",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Flamefriend Lantern",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Flayer Slayer",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Flying Chariot",
+        "rarity": "rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Folding Boat",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Fulminating Treatise",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Galder's Bubble Pipe",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Gauntlets of Flaming Fury",
+        "rarity": "rare",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Gauntlets of Rage",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Gavel of the Venn Rune",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Gem of Seeing",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ghost Lantern",
+        "rarity": "rare",
+        "source": "ToA"
+    },
+    {
+        "name": "Glamoured Studded Leather",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Glass-Studded Armor",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Glowrune Pigment",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Grasping Whip",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Green Chromatic Rose",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Gruul Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Gulthias Staff",
+        "rarity": "rare",
+        "source": "CoS"
+    },
+    {
+        "name": "Heart Weaver's Primer",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Hell Hound Cloak",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Helm of Patron Saints",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Helm of Teleportation",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of the Gods",
+        "rarity": "rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Heward's Handy Haversack",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Hook of Fisher's Delight",
+        "rarity": "rare",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Horn of Blasting",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Horn of Valhalla, Brass",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Horn of Valhalla, Silver",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Horseshoes of Speed",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Inescapable Lash",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Infernal Amulet",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Instrument of the Bards, Canaith Mandolin",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Instrument of the Bards, Cli Lyre",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Awareness",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Historical Knowledge",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Language Knowledge",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Natural Knowledge",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Protection",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Religious Knowledge",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Reserve",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Self-Preservation",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Supreme Intellect",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Ioun Stone, Sustenance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Iron Bands of Bilarro",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Izzet Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Kagonesti Forest Shroud",
+        "rarity": "rare",
+        "source": "DSotDQ"
+    },
+    {
+        "name": "Knave's Eye Patch",
+        "rarity": "rare",
+        "source": "WDH"
+    },
+    {
+        "name": "Knife of Stolen Resistance",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Knifewing Cape",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Lash of Immolation",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Leather Golem Armor",
+        "rarity": "rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Libram of Souls and Flesh",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Loadstone",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Lord Commander's Badge",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Luminous War Pick",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Lycanthropy Antidote",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Lyre of Building",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Mace of Disruption",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Mace of Smiting",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Mace of Terror",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Magician's Judge",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Mantle of Spell Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Mimir",
+        "rarity": "rare",
+        "source": "SatO"
+    },
+    {
+        "name": "Mind Crystal (Heightened)",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mind Crystal (Quickened)",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mind Lash",
+        "rarity": "rare",
+        "source": "VGM"
+    },
+    {
+        "name": "Mirror of the Past",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Mizzium Mortar",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Necklace of Fireballs",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Necklace of Prayer Beads",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Needle of Mending",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Netherese Ring of Protection",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Oil of Etherealness",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Opal of the Ild Rune",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Orb of the Stein Rune",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Order of the Silver Dragon +2 Shield",
+        "rarity": "rare",
+        "source": "CoS"
+    },
+    {
+        "name": "Orzhov Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Outer Essence Shard",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Outer Essence Shard (Chaotic)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Outer Essence Shard (Evil)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Outer Essence Shard (Good)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Outer Essence Shard (Lawful)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Pariah's Shield",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Periapt of Proof against Poison",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Piercer",
+        "rarity": "rare",
+        "source": "AI"
+    },
+    {
+        "name": "Piwafwi of Fire Resistance",
+        "rarity": "rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Planar Key",
+        "rarity": "rare",
+        "source": "AitFR-THP"
+    },
+    {
+        "name": "Planecaller's Codex",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Portable Hole",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Aqueous Form",
+        "rarity": "rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Potion of Clairvoyance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Diminution",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Fire Giant Strength",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Frost Giant Strength",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Gaseous Form",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Heroism",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Invulnerability",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Maximum Power",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Potion of Mind Control (beast)",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Potion of Mind Control (humanoid)",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Potion of Mind Reading",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Stone Giant Strength",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Superior Healing",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Professor Orb",
+        "rarity": "rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Protective Verses",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Quaal's Feather Token, Anchor",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Quaal's Feather Token, Bird",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Quaal's Feather Token, Fan",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Quaal's Feather Token, Swan Boat",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Quaal's Feather Token, Tree",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Quaal's Feather Token, Whip",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ready Gunk",
+        "rarity": "rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Red Chromatic Rose",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Refined Delerium Dust",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Reveler's Concertina",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Ring of Acid Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Animal Influence",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Cold Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Evasion",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Feather Falling",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Fire Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Force Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Free Action",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Lightning Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Necrotic Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Poison Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Protection",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Psychic Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Radiant Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Spell Storing",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Temporal Salvation",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Ring of the Ram",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Thunder Resistance",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of X-ray Vision",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Robe of Eyes",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Robe of Summer",
+        "rarity": "rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Rod of Rulership",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of the Vonindod",
+        "rarity": "rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Rogue's Mantle",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Rope of Entanglement",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ruinous Flail",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sage's Mirror",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Sage's Signet (Serpent)",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sage's Signet (Songbird)",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Saint Markovia's Thighbone",
+        "rarity": "rare",
+        "source": "CoS"
+    },
+    {
+        "name": "Saint Vitruvio's Phylactery",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Sceptre of Saint Vitruvio",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Scissors of Shadow Snipping",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Scorpion Armor",
+        "rarity": "rare",
+        "source": "ToA"
+    },
+    {
+        "name": "Scroll of Protection from Aberrations",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Beasts",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Celestials",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Elementals",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Fey",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Fiends",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Plants",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Scroll of Protection from Undead",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Selesnya Keyrune",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Serpent's Fang",
+        "rarity": "rare",
+        "source": "CM"
+    },
+    {
+        "name": "Shadowfell Brand Tattoo",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Shadowfell Shard",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Shard of Xeluan",
+        "rarity": "rare",
+        "source": "KftGV"
+    },
+    {
+        "name": "Shield Guardian Amulet",
+        "rarity": "rare",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Shield of Far Sight",
+        "rarity": "rare",
+        "source": "VGM"
+    },
+    {
+        "name": "Shield of Missile Attraction",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Shrieking Greaves",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Siren Song Lyre",
+        "rarity": "rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Skull of Selfish Knowledge",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Skymetal Staff",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Skysail",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Spell Gem (Bloodstone)",
+        "rarity": "rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Quartz)",
+        "rarity": "rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Scroll (4th Level)",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Scroll (5th Level)",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Spelljamming Helm",
+        "rarity": "rare",
+        "source": "AAG"
+    },
+    {
+        "name": "Spellwrought Tattoo (4th Level)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Spellwrought Tattoo (5th Level)",
+        "rarity": "rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Spider Staff",
+        "rarity": "rare",
+        "source": "LMoP"
+    },
+    {
+        "name": "Spider Staff",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Staff of Charming",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Defense",
+        "rarity": "rare",
+        "source": "LMoP"
+    },
+    {
+        "name": "Staff of Defense",
+        "rarity": "rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Staff of Healing",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Swarming Insects",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of the Ivory Claw",
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Staff of the Rooted Hills",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Staff of the Woodlands",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Withering",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Steward's Seal",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Stirring Dragon Vessel",
+        "rarity": "rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Stirring Dragon-Touched Focus",
+        "rarity": "rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Stirring Scaled Ornament",
+        "rarity": "rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Stone of Controlling Earth Elementals",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Stonespeaker Crystal",
+        "rarity": "rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Stormrider Boots",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Summer's Dance",
+        "rarity": "rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Sun Blade",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Sun Staff",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sunforger",
+        "rarity": "rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Teleportation Tablet",
+        "rarity": "rare",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Tentacle Rod",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "The Shield of Sacred Flame",
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Two-Birds Sling",
+        "rarity": "rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Ventilating Lungs",
+        "rarity": "rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Vial of Greed",
+        "rarity": "rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Voidwalker Armor",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Wand of Binding",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Enemy Detection",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Fear",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Fireballs",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Lightning Bolts",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Paralysis",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Viscid Globs",
+        "rarity": "rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Wand of Winter",
+        "rarity": "rare",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Wand of Wonder",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "War Horn of Valor",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Warrior's Passkey",
+        "rarity": "rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Wayfarer's Boots",
+        "rarity": "rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Weird Tank",
+        "rarity": "rare",
+        "source": "PotA"
+    },
+    {
+        "name": "White Chromatic Rose",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Wings of Flying",
+        "rarity": "rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Woodcutter's Axe",
+        "rarity": "rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "+1 All-Purpose Tool",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Amulet of the Devout",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Arcane Grimoire",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Bloodwell Vial",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Dragonhide Belt",
+        "rarity": "uncommon",
+        "source": "FTD"
+    },
+    {
+        "name": "+1 Moon Sickle",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Rhythm-Maker's Drum",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "+1 Rod of the Pact Keeper",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "+1 Wand of the War Mage",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "+1 Wraps of Unarmed Prowess",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Alchemy Jug",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Alchemy Jug (Blue)",
+        "rarity": "uncommon",
+        "source": "CM"
+    },
+    {
+        "name": "Alchemy Jug (Orange)",
+        "rarity": "uncommon",
+        "source": "CM"
+    },
+    {
+        "name": "Amber Runestone",
+        "rarity": "uncommon",
+        "source": "NRH-TLT"
+    },
+    {
+        "name": "Amulet of Proof against Detection and Location",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Amulet of the Drunkard",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Azorius Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Bag of Holding",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Bag of Tricks, Gray",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Bag of Tricks, Rust",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Bag of Tricks, Tan",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Balance of Harmony",
+        "rarity": "uncommon",
+        "source": "TftYP"
+    },
+    {
+        "name": "Balloon Pack",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Barrier Tattoo (Small)",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Blasted Goggles",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Blood of the Lycanthrope Antidote",
+        "rarity": "uncommon",
+        "source": "IMR"
+    },
+    {
+        "name": "Blood Spear",
+        "rarity": "uncommon",
+        "source": "CoS"
+    },
+    {
+        "name": "Bloodrage Greataxe",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Boomerang Shield",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Boots of Elvenkind",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Boots of Striding and Springing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Boots of the Vigilant",
+        "rarity": "uncommon",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Boots of the Winterlands",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Boros Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Bottled Breath",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Bracers of Archery",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Brooch of Living Essence",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Brooch of Shielding",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Broom of Flying",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Cap of Water Breathing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Card Sharp's Deck",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Circlet of Blasting",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Circlet of Human Perfection",
+        "rarity": "uncommon",
+        "source": "WDMM"
+    },
+    {
+        "name": "Cloak of Elvenkind",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Cloak of Protection",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Cloak of the Manta Ray",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Coiling Grasp Tattoo",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Condensed Order",
+        "rarity": "uncommon",
+        "source": "CoA"
+    },
+    {
+        "name": "Cracked Driftglobe",
+        "rarity": "uncommon",
+        "source": "CM"
+    },
+    {
+        "name": "Crown of the Forest",
+        "rarity": "uncommon",
+        "source": "IMR"
+    },
+    {
+        "name": "Cursed Luckstone",
+        "rarity": "uncommon",
+        "source": "GoS"
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Deck of Illusions",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Deck of Miscellany",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Deck of Wonder",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Dimir Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Driftglobe",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Dust of Corrosion",
+        "rarity": "uncommon",
+        "source": "WBtW"
+    },
+    {
+        "name": "Dust of Deliciousness",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Dust of Disappearance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Dust of Dryness",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Earworm",
+        "rarity": "uncommon",
+        "source": "ERLW"
+    },
+    {
+        "name": "Echo Stone",
+        "rarity": "uncommon",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Elder Cartographer's Glossography",
+        "rarity": "uncommon",
+        "source": "AI"
+    },
+    {
+        "name": "Eldritch Claw Tattoo",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Elemental Gem, Blue Sapphire",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Elemental Gem, Emerald",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Elemental Gem, Red Corundum",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Elemental Gem, Yellow Diamond",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Emerald Pen",
+        "rarity": "uncommon",
+        "source": "FTD"
+    },
+    {
+        "name": "Eversmoking Bottle",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Eyes of Charming",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Eyes of Minute Seeing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Eyes of the Eagle",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Fabulist Gem",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Feywild Shard",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Silver Raven",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Finder's Goggles",
+        "rarity": "uncommon",
+        "source": "ERLW"
+    },
+    {
+        "name": "Flame Lance",
+        "rarity": "uncommon",
+        "source": "DoDk"
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Gem of Brightness",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Gloves of Missile Snaring",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Gloves of Swimming and Climbing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Gloves of Thievery",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Goggles of Night",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Goggles of Object Reading",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Golgari Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Gruul Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Guardian Emblem",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Harkon's Bite",
+        "rarity": "uncommon",
+        "source": "VRGR"
+    },
+    {
+        "name": "Hat of Disguise",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Headband of Intellect",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of Comprehending Languages",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of Telepathy",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of Underwater Action",
+        "rarity": "uncommon",
+        "source": "GoS"
+    },
+    {
+        "name": "Hew",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "House of Cards",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Immovable Rod",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Infernal Puzzle Box",
+        "rarity": "uncommon",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Insignia of Claws",
+        "rarity": "uncommon",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Instrument of the Bards, Doss Lute",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Instrument of the Bards, Fochlucan Bandore",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Izzet Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Javelin of Lightning",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Keoghtom's Ointment",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Lantern of Revealing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Lightbringer",
+        "rarity": "uncommon",
+        "source": "LMoP"
+    },
+    {
+        "name": "Lightbringer",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Living Gloves",
+        "rarity": "uncommon",
+        "source": "ERLW"
+    },
+    {
+        "name": "Lorehold Primer",
+        "rarity": "uncommon",
+        "source": "SCC"
+    },
+    {
+        "name": "Mask of the Beast",
+        "rarity": "uncommon",
+        "source": "ToA"
+    },
+    {
+        "name": "Medallion of Thoughts",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Mind Crystal (Careful)",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mind Crystal (Distant)",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mind Crystal (Empowered)",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mind Crystal (Extended)",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mizzium Apparatus",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Mummy Rot Antidote",
+        "rarity": "uncommon",
+        "source": "IMR"
+    },
+    {
+        "name": "Nature's Mantle",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Necklace of Adaptation",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Nest Charm",
+        "rarity": "uncommon",
+        "source": "HWCS"
+    },
+    {
+        "name": "Night Caller",
+        "rarity": "uncommon",
+        "source": "TftYP"
+    },
+    {
+        "name": "Oil of Slipperiness",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Orc Stone",
+        "rarity": "uncommon",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Orzhov Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Paper Bird",
+        "rarity": "uncommon",
+        "source": "WDH"
+    },
+    {
+        "name": "Pearl of Power",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Periapt of Health",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Philter of Love",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Pipes of Haunting",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Pipes of the Sewers",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Piwafwi (Cloak of Elvenkind)",
+        "rarity": "uncommon",
+        "source": "OotA"
+    },
+    {
+        "name": "Pixie Dust",
+        "rarity": "uncommon",
+        "source": "WBtW"
+    },
+    {
+        "name": "Plate of Knight's Fellowship",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Portal Compass",
+        "rarity": "uncommon",
+        "source": "SatO"
+    },
+    {
+        "name": "Potion of Acid Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Advantage",
+        "rarity": "uncommon",
+        "source": "WBtW"
+    },
+    {
+        "name": "Potion of Animal Friendship",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Cold Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Fire Breath",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Fire Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Force Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Greater Healing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Growth",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Hill Giant Strength",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Lightning Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Necrotic Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Poison",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Poison Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Psionic Fortitude",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Potion of Psychic Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Radiant Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Thunder Resistance",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Water Breathing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+        "rarity": "uncommon",
+        "source": "BGG"
+    },
+    {
+        "name": "Prismari Primer",
+        "rarity": "uncommon",
+        "source": "SCC"
+    },
+    {
+        "name": "Propeller Helm",
+        "rarity": "uncommon",
+        "source": "WDMM"
+    },
+    {
+        "name": "Psi Crystal",
+        "rarity": "uncommon",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Purging Rod",
+        "rarity": "uncommon",
+        "source": "DoDk"
+    },
+    {
+        "name": "Pyroconverger",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Quandrix Primer",
+        "rarity": "uncommon",
+        "source": "SCC"
+    },
+    {
+        "name": "Quiver of Ehlonna",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Rakdos Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Rakdos Keyrune",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Reszur",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Ring of Jumping",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Mind Shielding",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Obscuring",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Ring of Puzzler's Wit",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Ring of Swimming",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of the Orator",
+        "rarity": "uncommon",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Ring of Truth Telling",
+        "rarity": "uncommon",
+        "source": "WDH"
+    },
+    {
+        "name": "Ring of Warmth",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Water Walking",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Robe of Serpents",
+        "rarity": "uncommon",
+        "source": "SKT"
+    },
+    {
+        "name": "Robe of Useful Items",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Mercurial Form",
+        "rarity": "uncommon",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Rod of Retribution",
+        "rarity": "uncommon",
+        "source": "EGW"
+    },
+    {
+        "name": "Rope of Climbing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Saddle of the Cavalier",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Seeker Dart",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Selesnya Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Sending Stone",
+        "rarity": "uncommon",
+        "source": "AI"
+    },
+    {
+        "name": "Sending Stones",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Sensory Stone",
+        "rarity": "uncommon",
+        "source": "SatO"
+    },
+    {
+        "name": "Sentinel Shield",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Serpent Scale Armor",
+        "rarity": "uncommon",
+        "source": "CM"
+    },
+    {
+        "name": "Shatterspike",
+        "rarity": "uncommon",
+        "source": "TftYP"
+    },
+    {
+        "name": "Shield of the Tortoise",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Silverquill Primer",
+        "rarity": "uncommon",
+        "source": "SCC"
+    },
+    {
+        "name": "Simic Guild Signet",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Simic Keyrune",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Skyblinder Staff",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Skymetal Shield",
+        "rarity": "uncommon",
+        "source": "DoDk"
+    },
+    {
+        "name": "Sling of Giant Felling",
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    {
+        "name": "Slippers of Spider Climbing",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Slumbering Dragon Vessel",
+        "rarity": "uncommon",
+        "source": "FTD"
+    },
+    {
+        "name": "Slumbering Dragon-Touched Focus",
+        "rarity": "uncommon",
+        "source": "FTD"
+    },
+    {
+        "name": "Slumbering Scaled Ornament",
+        "rarity": "uncommon",
+        "source": "FTD"
+    },
+    {
+        "name": "Smokepowder",
+        "rarity": "uncommon",
+        "source": "WDH"
+    },
+    {
+        "name": "Soul Coin",
+        "rarity": "uncommon",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Soul Coin",
+        "rarity": "uncommon",
+        "source": "CoA"
+    },
+    {
+        "name": "Spell Gem (Lapis lazuli)",
+        "rarity": "uncommon",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Obsidian)",
+        "rarity": "uncommon",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Scroll (2nd Level)",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Scroll (3rd Level)",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Spellpiercing Wand",
+        "rarity": "uncommon",
+        "source": "DoDk"
+    },
+    {
+        "name": "Spellwrought Tattoo (2nd Level)",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Spellwrought Tattoo (3rd Level)",
+        "rarity": "uncommon",
+        "source": "TCE"
+    },
+    {
+        "name": "Spies' Murmur",
+        "rarity": "uncommon",
+        "source": "GGR"
+    },
+    {
+        "name": "Staff of the Adder",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of the Python",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Stone of Good Luck",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Stone of Ill Luck",
+        "rarity": "uncommon",
+        "source": "TftYP"
+    },
+    {
+        "name": "Storm Boomerang",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Thessaltoxin Antidote",
+        "rarity": "uncommon",
+        "source": "IMR"
+    },
+    {
+        "name": "Travel Alchemical Kit",
+        "rarity": "uncommon",
+        "source": "AI"
+    },
+    {
+        "name": "Trident of Fish Command",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Uncommon Glamerweave",
+        "rarity": "uncommon",
+        "source": "ERLW"
+    },
+    {
+        "name": "Vanrak's Mithral Shirt",
+        "rarity": "uncommon",
+        "source": "WDMM"
+    },
+    {
+        "name": "Wand of Entangle",
+        "rarity": "uncommon",
+        "source": "TftYP"
+    },
+    {
+        "name": "Wand of Magic Detection",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Magic Missiles",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Secrets",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wand of Silence",
+        "rarity": "uncommon",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Wand of Web",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wheel of Wind and Water",
+        "rarity": "uncommon",
+        "source": "ERLW"
+    },
+    {
+        "name": "Wildspace Orrery",
+        "rarity": "uncommon",
+        "source": "AAG"
+    },
+    {
+        "name": "Wind Fan",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wing Crest Shield",
+        "rarity": "uncommon",
+        "source": "HWCS"
+    },
+    {
+        "name": "Winged Boots",
+        "rarity": "uncommon",
+        "source": "DMG"
+    },
+    {
+        "name": "Wingwear",
+        "rarity": "uncommon",
+        "source": "PotA"
+    },
+    {
+        "name": "Winter's Dark Bite",
+        "rarity": "uncommon",
+        "source": "HftT"
+    },
+    {
+        "name": "Witherbloom Primer",
+        "rarity": "uncommon",
+        "source": "SCC"
+    },
+    {
+        "name": "Adjustable Stilts",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Alchemist's Doom",
+        "rarity": "unknown",
+        "source": "SCC"
+    },
+    {
+        "name": "Backpack Parachute",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Barking Box",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Catapult Munition",
+        "rarity": "unknown",
+        "source": "SCC"
+    },
+    {
+        "name": "Flensing Claws (Huge)",
+        "rarity": "unknown",
+        "source": "VGM"
+    },
+    {
+        "name": "Flensing Claws (Large)",
+        "rarity": "unknown",
+        "source": "VGM"
+    },
+    {
+        "name": "Flensing Claws (Medium)",
+        "rarity": "unknown",
+        "source": "VGM"
+    },
+    {
+        "name": "Flensing Claws (Small)",
+        "rarity": "unknown",
+        "source": "VGM"
+    },
+    {
+        "name": "Ivana's Whisper",
+        "rarity": "unknown",
+        "source": "VRGR"
+    },
+    {
+        "name": "Matchless Pipe",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Menga leaves (1 ounce)",
+        "rarity": "unknown",
+        "source": "ToA"
+    },
+    {
+        "name": "Murgaxor's Elixir of Life",
+        "rarity": "unknown",
+        "source": "SCC"
+    },
+    {
+        "name": "Nimblewright Detector",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Oloore Root Teabag",
+        "rarity": "unknown",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Oversized Longbow",
+        "rarity": "unknown",
+        "source": "WDH"
+    },
+    {
+        "name": "Ryath Root",
+        "rarity": "unknown",
+        "source": "ToA"
+    },
+    {
+        "name": "Shatterstick",
+        "rarity": "unknown",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Sinda berries (10)",
+        "rarity": "unknown",
+        "source": "ToA"
+    },
+    {
+        "name": "Survival Mantle",
+        "rarity": "unknown",
+        "source": "VGM"
+    },
+    {
+        "name": "The Incantations of Iriolarthas",
+        "rarity": "unknown",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Vial of Stardust",
+        "rarity": "unknown",
+        "source": "WDMM"
+    },
+    {
+        "name": "Whistle-Stick",
+        "rarity": "unknown",
+        "source": "OGA"
+    },
+    {
+        "name": "Wildroot",
+        "rarity": "unknown",
+        "source": "ToA"
+    },
+    {
+        "name": "Wukka Nut",
+        "rarity": "unknown",
+        "source": "ToA"
+    },
+    {
+        "name": "Zeal",
+        "rarity": "unknown",
+        "source": "TDCSR"
+    },
+    {
+        "name": "+2 Studded Leather Armor of Acid Resistance",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "+2 Studded White Dragon Leather Armor of Cold Resistance",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Arcanaloth's Music Box",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Azuremite",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Bob",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Candle Mace",
+        "rarity": "unknown (magic)",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Circlet of Wisdom",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Clockwork Dog",
+        "rarity": "unknown (magic)",
+        "source": "SKT"
+    },
+    {
+        "name": "Conch of Safe Rest",
+        "rarity": "unknown (magic)",
+        "source": "TTP"
+    },
+    {
+        "name": "Dagger of Guitar Solos",
+        "rarity": "unknown (magic)",
+        "source": "WDMM"
+    },
+    {
+        "name": "Dancing Monkey Fruit",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Dowsing Dagger",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Draconic Longsword",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Dragon Sensing Longsword",
+        "rarity": "unknown (magic)",
+        "source": "PotA"
+    },
+    {
+        "name": "Dragon Thighbone Club",
+        "rarity": "unknown (magic)",
+        "source": "SKT"
+    },
+    {
+        "name": "Dragongleam",
+        "rarity": "unknown (magic)",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Faerie Dust",
+        "rarity": "unknown (magic)",
+        "source": "SKT"
+    },
+    {
+        "name": "Falkir's Helm of Pigheadedness",
+        "rarity": "unknown (magic)",
+        "source": "WDMM"
+    },
+    {
+        "name": "Flame Tongue Shortsword of Greed",
+        "rarity": "unknown (magic)",
+        "source": "TftYP"
+    },
+    {
+        "name": "Gravenhollow Compass Ring",
+        "rarity": "unknown (magic)",
+        "source": "OotA"
+    },
+    {
+        "name": "Green Copper Ewer",
+        "rarity": "unknown (magic)",
+        "source": "CoS"
+    },
+    {
+        "name": "Hag Eye",
+        "rarity": "unknown (magic)",
+        "source": "MM"
+    },
+    {
+        "name": "Hew",
+        "rarity": "unknown (magic)",
+        "source": "LMoP"
+    },
+    {
+        "name": "Horizon Puzzle Cube",
+        "rarity": "unknown (magic)",
+        "source": "BGG"
+    },
+    {
+        "name": "Iron Ball",
+        "rarity": "unknown (magic)",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Jade Serpent Staff",
+        "rarity": "unknown (magic)",
+        "source": "WDMM"
+    },
+    {
+        "name": "Junky +1 Dagger",
+        "rarity": "unknown (magic)",
+        "source": "TftYP"
+    },
+    {
+        "name": "Lost Sword",
+        "rarity": "unknown (magic)",
+        "source": "CoS"
+    },
+    {
+        "name": "Macuahuitl",
+        "rarity": "unknown (magic)",
+        "source": "TftYP"
+    },
+    {
+        "name": "Master's Amulet",
+        "rarity": "unknown (magic)",
+        "source": "MM"
+    },
+    {
+        "name": "Mind Flayer Skull",
+        "rarity": "unknown (magic)",
+        "source": "WDMM"
+    },
+    {
+        "name": "Orcus Figurine",
+        "rarity": "unknown (magic)",
+        "source": "CM"
+    },
+    {
+        "name": "Pathfinder's Greataxe",
+        "rarity": "unknown (magic)",
+        "source": "PotA"
+    },
+    {
+        "name": "Pearl of Undead Detection",
+        "rarity": "unknown (magic)",
+        "source": "WDMM"
+    },
+    {
+        "name": "Petrified Grung Egg",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Pirate's Cutlass",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Primal Amulet",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Prying Blade",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Radiance",
+        "rarity": "unknown (magic)",
+        "source": "CM"
+    },
+    {
+        "name": "Residuum",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Residuum Enchanting Slate",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Shield of Shouting",
+        "rarity": "unknown (magic)",
+        "source": "ToA"
+    },
+    {
+        "name": "Silver Sword",
+        "rarity": "unknown (magic)",
+        "source": "MTF"
+    },
+    {
+        "name": "Sorcerous Spyglass",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Statuette of Augury",
+        "rarity": "unknown (magic)",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Statuette of Saint Markovia",
+        "rarity": "unknown (magic)",
+        "source": "CoS"
+    },
+    {
+        "name": "Stonky's ring",
+        "rarity": "unknown (magic)",
+        "source": "CM"
+    },
+    {
+        "name": "Sunbeam Compass",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Suude (Blue)",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Suude (Brown)",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Suude (Red)",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Tankard of Plenty",
+        "rarity": "unknown (magic)",
+        "source": "HotDQ"
+    },
+    {
+        "name": "Teleporter Ring",
+        "rarity": "unknown (magic)",
+        "source": "WDH"
+    },
+    {
+        "name": "The Codicil of White",
+        "rarity": "unknown (magic)",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Treebane",
+        "rarity": "unknown (magic)",
+        "source": "CoS"
+    },
+    {
+        "name": "Vanquisher's Banner",
+        "rarity": "unknown (magic)",
+        "source": "XMtS"
+    },
+    {
+        "name": "Vial of Thought Capture",
+        "rarity": "unknown (magic)",
+        "source": "AZfyT"
+    },
+    {
+        "name": "White Dragon Cape",
+        "rarity": "unknown (magic)",
+        "source": "TftYP"
+    },
+    {
+        "name": "Whitestone",
+        "rarity": "unknown (magic)",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Coin of Decisionry",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Documancy Satchel",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Gnomengarde Grenade",
+        "rarity": "varies",
+        "source": "DC"
+    },
+    {
+        "name": "Living Loot Satchel",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Obviator's Lenses",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Occultant Abacus",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Portfolio Keeper",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "Whisper Jar",
+        "rarity": "varies",
+        "source": "AI"
+    },
+    {
+        "name": "+2 Fate Dealer's Deck",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "+3 All-Purpose Tool",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Amulet of the Devout",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Arcane Grimoire",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Bloodwell Vial",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Dragonhide Belt",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "+3 Moon Sickle",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Rhythm-Maker's Drum",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "+3 Rod of the Pact Keeper",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "+3 Wand of the War Mage",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "+3 Wraps of Unarmed Prowess",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Abracadabrus",
+        "rarity": "very rare",
+        "source": "IDRotF"
+    },
+    {
+        "name": "Acid Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Amethyst Lodestone",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Amulet of Betrayal",
+        "rarity": "very rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Amulet of Duplicity",
+        "rarity": "very rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Amulet of the Black Skull",
+        "rarity": "very rare",
+        "source": "ToA"
+    },
+    {
+        "name": "Amulet of the Planes",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Animated Shield",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Arcane Cannon",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Arcane Propulsion Arm",
+        "rarity": "very rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Bag of Devouring",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Baleful Talon",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Barrier Tattoo (Large)",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Battle Standard of Infernal Power",
+        "rarity": "very rare",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Belt of Fire Giant Strength",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Belt of Frost Giant Strength",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Belt of Stone Giant Strength",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Black Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Blast Scepter",
+        "rarity": "very rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Bloodaxe",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Blue Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Bobbing Lily Pad",
+        "rarity": "very rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Boots of Haste",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Bracelet of Rock Magic",
+        "rarity": "very rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Brass Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Brazen Armor",
+        "rarity": "very rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Bronze Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Candle of Invocation",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Cape of Enlargement",
+        "rarity": "very rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Carpet of Flying, 3 ft. \u00c3\u2014 5 ft.",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Carpet of Flying, 4 ft. \u00c3\u2014 6 ft.",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Carpet of Flying, 5 ft. \u00c3\u2014 7 ft.",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Carpet of Flying, 6 ft. \u00c3\u2014 9 ft.",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Cataclysm Bolts",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Cauldron of Rebirth",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Chronolometer",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "Cloak of Arachnida",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Cold Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Conch of Teleportation",
+        "rarity": "very rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Constantori's Portrait",
+        "rarity": "very rare",
+        "source": "KftGV"
+    },
+    {
+        "name": "Copper Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Corecut Dagger",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Crown of Whirling Comets",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Crystal Ball",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Crystalline Chronicle",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Deck of Dimensions",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Deck of Wild Cards",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Demon Armor",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Devastation Orb of Air",
+        "rarity": "very rare",
+        "source": "PotA"
+    },
+    {
+        "name": "Devastation Orb of Earth",
+        "rarity": "very rare",
+        "source": "PotA"
+    },
+    {
+        "name": "Devastation Orb of Fire",
+        "rarity": "very rare",
+        "source": "PotA"
+    },
+    {
+        "name": "Devastation Orb of Water",
+        "rarity": "very rare",
+        "source": "PotA"
+    },
+    {
+        "name": "Dimensional Loop",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "Dimir Keyrune",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Dispelling Stone",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Duskcrusher",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Dwarven Plate",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Dwarven Thrower",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Dyrrn's Tentacle Whip",
+        "rarity": "very rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Efreeti Bottle",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Eldritch Staff",
+        "rarity": "very rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Elven Thrower",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Far Gear",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "Fate Cutter Shears",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Figurine of Wondrous Power, Obsidian Steed",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Fire Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Fish Suit",
+        "rarity": "very rare",
+        "source": "AAG"
+    },
+    {
+        "name": "Flying Citadel Helm",
+        "rarity": "very rare",
+        "source": "DSotDQ"
+    },
+    {
+        "name": "Force Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Ghost Step Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Gold Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Golgari Keyrune",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Green Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Hammer of Runic Focus",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Hazewalker Plate",
+        "rarity": "very rare",
+        "source": "DoDk"
+    },
+    {
+        "name": "Heartstone",
+        "rarity": "very rare",
+        "source": "MM"
+    },
+    {
+        "name": "Helm of Brilliance",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Helm of Devil Command",
+        "rarity": "very rare",
+        "source": "BGDIA"
+    },
+    {
+        "name": "Heward's Hireling Armor",
+        "rarity": "very rare",
+        "source": "LLK"
+    },
+    {
+        "name": "Horn of Valhalla, Bronze",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Horned Ring",
+        "rarity": "very rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Horseshoes of a Zephyr",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Hunter's Coat",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Illusionist's Bracers",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Infernal Plate Armor",
+        "rarity": "very rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Ingot of the Skold Rune",
+        "rarity": "very rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Instrument of the Bards, Anstruth Harp",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone of Vitality",
+        "rarity": "very rare",
+        "source": "IMR"
+    },
+    {
+        "name": "Ioun Stone, Absorption",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Agility",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Fortitude",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Insight",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Intellect",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Leadership",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ioun Stone, Strength",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Javelin of Backbiting",
+        "rarity": "very rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Kyrzin's Ooze",
+        "rarity": "very rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Lifewell Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Lightning Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Lindwyrm Venom",
+        "rarity": "very rare",
+        "source": "GHLoE"
+    },
+    {
+        "name": "Lord's Ensemble",
+        "rarity": "very rare",
+        "source": "WDH"
+    },
+    {
+        "name": "Lucent Destroyer",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Maddgoth's Helm",
+        "rarity": "very rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Manual of Bodily Health",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Clay Golems",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Flesh Golems",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Gainful Exercise",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Iron Golems",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Quickness of Action",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Manual of Stone Golems",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Mindblasting Cap",
+        "rarity": "very rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mindguard Crown",
+        "rarity": "very rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Mirror of Infinite Transpondence",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Mirror of Life Trapping",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Mirror of Reflected Pasts",
+        "rarity": "very rare",
+        "source": "DSotDQ"
+    },
+    {
+        "name": "Mistral Mantle",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Mudslick Tower",
+        "rarity": "very rare",
+        "source": "PaBTSO"
+    },
+    {
+        "name": "Navigation Orb",
+        "rarity": "very rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Necrotic Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Nimbus Coronet",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Nolzur's Marvelous Pigments",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Oathbow",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Oil of Sharpness",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Orb of the Veil",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Ornithopter of Flying",
+        "rarity": "very rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Pennant of the Vind Rune",
+        "rarity": "very rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Peregrine Mask",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Poison Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Potion of Cloud Giant Strength",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Flying",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Invisibility",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Longevity",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Mind Control (monster)",
+        "rarity": "very rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Potion of Possibility",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Potion of Speed",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Supreme Healing",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Potion of Vitality",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power, Carnelian Triceratops",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Psychic Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Radiant Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Raven's Slumber",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Red Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Reincarnation Dust",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Ring of Amity",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Ring of Collecting",
+        "rarity": "very rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Ring of Red Fury",
+        "rarity": "very rare",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Ring of Regeneration",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Shooting Stars",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Telekinesis",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Ring of Treachery",
+        "rarity": "very rare",
+        "source": "CoA"
+    },
+    {
+        "name": "Robe of Scintillating Colors",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Robe of Stars",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Absorption",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Alertness",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Rod of Hellish Flames",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Rod of Security",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Rotor of Return",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "Ruidium Shield",
+        "rarity": "very rare",
+        "source": "CRCotN"
+    },
+    {
+        "name": "Sage's Signet (Bear)",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sage's Signet (Hart)",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sage's Signet (Lion)",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sage's Signet (Wolf)",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sanctum Amulet",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Sapphire Buckler",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Scimitar of Speed",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Shard of the Ise Rune",
+        "rarity": "very rare",
+        "source": "SKT"
+    },
+    {
+        "name": "Shield of the Uven Rune",
+        "rarity": "very rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Silver Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Skull Helm",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sling Bullets of Althemone",
+        "rarity": "very rare",
+        "source": "MOT"
+    },
+    {
+        "name": "Soul Bag",
+        "rarity": "very rare",
+        "source": "MM"
+    },
+    {
+        "name": "Speaking Stone",
+        "rarity": "very rare",
+        "source": "ERLW"
+    },
+    {
+        "name": "Spear of Backbiting",
+        "rarity": "very rare",
+        "source": "TftYP"
+    },
+    {
+        "name": "Spell Gem (Amber)",
+        "rarity": "very rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Jade)",
+        "rarity": "very rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Gem (Topaz)",
+        "rarity": "very rare",
+        "source": "OotA"
+    },
+    {
+        "name": "Spell Scroll (6th Level)",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Scroll (7th Level)",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Spell Scroll (8th Level)",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Spellguard Shield",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Dunamancy",
+        "rarity": "very rare",
+        "source": "EGW"
+    },
+    {
+        "name": "Staff of Fate",
+        "rarity": "very rare",
+        "source": "CM"
+    },
+    {
+        "name": "Staff of Fire",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Frost",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Power",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Striking",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Staff of Thunder and Lightning",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Steel",
+        "rarity": "very rare",
+        "source": "WBtW"
+    },
+    {
+        "name": "Stonemaker War Pick",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Sword of the Paruns",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Tearulai",
+        "rarity": "very rare",
+        "source": "WDMM"
+    },
+    {
+        "name": "Thunder Absorbing Tattoo",
+        "rarity": "very rare",
+        "source": "TCE"
+    },
+    {
+        "name": "Thunderbuss",
+        "rarity": "very rare",
+        "source": "BGG"
+    },
+    {
+        "name": "Tidecaller Trident",
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    {
+        "name": "Timepiece of Travel",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "Tinkertop Boltblaster 1000",
+        "rarity": "very rare",
+        "source": "TDCSR"
+    },
+    {
+        "name": "Tome of Clear Thought",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Tome of Leadership and Influence",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Tome of Understanding",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Voyager Staff",
+        "rarity": "very rare",
+        "source": "GGR"
+    },
+    {
+        "name": "Wakened Dragon Vessel",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Wakened Dragon-Touched Focus",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Wakened Scaled Ornament",
+        "rarity": "very rare",
+        "source": "FTD"
+    },
+    {
+        "name": "Wand of Polymorph",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Watchful Helm",
+        "rarity": "very rare",
+        "source": "CM"
+    },
+    {
+        "name": "Wheel of Stars",
+        "rarity": "very rare",
+        "source": "AI"
+    },
+    {
+        "name": "White Dragon Scale Mail",
+        "rarity": "very rare",
+        "source": "DMG"
+    },
+    {
+        "name": "Wyrmreaver Gauntlets",
+        "rarity": "very rare",
+        "source": "BGG"
+    }
+]
